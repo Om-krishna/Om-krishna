@@ -1,5 +1,4 @@
-# Hey <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
-, I'm Om!
+# Hey , I'm Om!
 
 
 # About Me 🚀
