@@ -22,16 +22,20 @@
 
 
 🔭 My Skills
-Deep learning with python
-Machine Learning with python
-Web development with html, css, java and bootstrap
-Data Structure and Algorithms using C/C++
+* Deep learning with python
+* Machine Learning with python
+* Computer Vision 
+* Front-end development using React.js
+* Deep learning with python
+* Machine Learning with python
+* Data Structure and Algorithms using C/C++
 
 # 🤔 Get in touch
 I'll try to get back to you asap
 
-💬 Email- omyadav912@gmail.com
-📫 Checkout my Tech blogs at Medium
-😄 Connect with me on Linkedin
-⚡ Consider my work at GitHub
+* 💬 Email- [omyadav912@gmail.com](omyadav912@gmail.com)
+* 📫 Checkout my Tech blogs at [Medium](https://medium.com/@omkrishnayadav50)
+* 😄 Connect with me on [Linkedin](https://www.linkedin.com/in/om-krishna-yadav-6700b4146/)
+* ⚡ Consider my work at [GitHub](https://github.com/Om-krishna)
+
 👯 Thank you for viewing my GitHub Profile!
