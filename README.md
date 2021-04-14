@@ -1,6 +1,17 @@
 # Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Om!
 
 
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]:  https://twitter.com/OmKrish46465957?s=08
+[2]:  https://www.linkedin.com/in/om-krishna-yadav-6700b4146/
+
+
 # About Me 🚀
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.
 👨‍💻 I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things.
