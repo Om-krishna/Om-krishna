@@ -1,5 +1,8 @@
 # Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Om!
 
+<!-- Actual text -->
+
+[![Twitter][1.2]][1],  [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
