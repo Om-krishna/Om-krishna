@@ -55,4 +55,8 @@ I'll try to get back to you asap
 * 😄 Connect with me on [Linkedin](https://www.linkedin.com/in/om-krishna-yadav-6700b4146/)
 * ⚡ Consider my work at [GitHub](https://github.com/Om-krishna)
 
+# Github Stats
+[![Om Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Om-krishna)](https://github.com/Om-krishna/github-readme-stats)
+
+
 Thank you for viewing my GitHub Profile!
