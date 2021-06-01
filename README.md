@@ -45,7 +45,7 @@
 * Front-end development using React.js
 * Deep learning with python
 * Machine Learning with python
-* Data Structure and Algorithms using C/C++
+* Data Structure and Algorithms using JAVA
 
 # 🤔 Get in touch
 I'll try to get back to you asap
