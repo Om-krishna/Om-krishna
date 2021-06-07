@@ -20,7 +20,7 @@
 👨‍💻 I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things.
 
 # My Experiences 🙌
-* President of [AI CLUB](https://aiclubvitbhopal.github.io/) at VIT, Bhopal
+* President of [AI CLUB](https://aiclubvitbhopal.github.io/) at VIT UNIVERSITY, Bhopal
 * Mentor and Judge at [HackTJ 8.0](https://hacktj.org/)
 * TA & Instructor at [Coding Blocks](https://codingblocks.com/) for Java, Python, Data Science & Machine Learning.
 * Instructor at workshops conducted by 'CodeChef for Schools' for Competitive Programming.
