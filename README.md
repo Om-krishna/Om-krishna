@@ -20,6 +20,7 @@
 👨‍💻 I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things.
 
 # My Experiences 🙌
+* Machine learning Intern at Santa Fe Research Pvt. Ltd,  IIT Madras Research Park
 * President of [AI CLUB](https://aiclubvitbhopal.github.io/) at VIT UNIVERSITY, Bhopal
 * Mentor and Judge at [HackTJ 8.0](https://hacktj.org/)
 * TA & Instructor at [Coding Blocks](https://codingblocks.com/) for Java, Python, Data Science & Machine Learning.
