@@ -16,23 +16,21 @@
 
 
 # About Me 🚀
-🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.
-👨‍💻 I am passionate about Kubernetes, Web Dev, Machine Learning, DevOps & I enjoy learning new things.
+👋 Hi there! I’m a Software Engineer - II at Cisco, passionate about building scalable, intelligent, and high-performance systems.
+🎓 I hold a Bachelor’s in Computer Science & Engineering, and I’m an avid open-source contributor who loves to collaborate and innovate.
+💡 My interests span across Full Stack Development, Machine Learning, DevOps, Cloud Computing, and Distributed Systems.
+🌱 I’m constantly exploring how cutting-edge technologies like LLMs, MLOps, and Kubernetes can be used to solve real-world challenges.
+💬 I enjoy mentoring, teaching, and contributing to tech communities that inspire learning and growth.
 
-# My Experiences 🙌
-* Machine learning Intern at Santa Fe Research Pvt. Ltd,  IIT Madras Research Park
-* President of [AI CLUB](https://aiclubvitbhopal.github.io/) at VIT UNIVERSITY, Bhopal
+# My Experiences 💼
+* Software Engineer - II at Cisco — Working on developing and optimizing scalable software systems, improving performance, and integrating modern AI-driven solutions into enterprise environments.
+* Machine Learning Intern at Santa Fe Research Pvt. Ltd, IIT Madras Research Park
 * Mentor and Judge at [HackTJ 8.0](https://hacktj.org/)
-* TA & Instructor at [Coding Blocks](https://codingblocks.com/) for Java, Python, Data Science & Machine Learning.
-* Instructor at workshops conducted by 'CodeChef for Schools' for Competitive Programming.
 * Founder and Instructor(Turners) - Started a community to provide education & mentorship to students globally & have 2k+ students be a part in the first few months.
 * Data Science Intern at Nuclei Technologies - Worked on data analytics and implemented Machine Learning and Artificial Intelligence Algorithm in R and Python.
-* TA and Instructor at Edurific, India.
-* Content Developer and Coding Teacher at [Debubsbunny](https://www.debugsbunny.com/).
 * Mentor at [Mentors without border](https://www.mentorswithoutborders.net/) - Mentors without Borders is a group of passionated professional who are teaching young people from all over the world how to enjoy the process of setting goals and taking steps towards these goals in their chosen fields.
 * Overall Coordinator of [AI Conclave'21](https://aivit.tech/) at VIT, Bhopal - AI Conclave is a 2-day international event, held on 26th and 27th February 2021. It aims to impart knowledge and raise awareness about Artificial Intelligence and related technologies in the mind of the enthusiastic youth of India.
 * Mentor at [RU Hacks](https://ruhacks.com/) by Ryerson University
-* Coding Mentor at Cuemath.
 
 
 
